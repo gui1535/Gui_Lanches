@@ -109,7 +109,7 @@ namespace Lanches_Gui
             
         }
 
-        // Inicialização
+        // Inicio
         static void Inicio()
         {
             // Mensagem Inicio
