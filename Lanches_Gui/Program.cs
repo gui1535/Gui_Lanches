@@ -47,7 +47,6 @@ namespace Lanches_Gui
         {
             try // Tent fazer isso
             {
-                // Exibição do pedido
                 Inicio();
             }
             catch (Exception)
